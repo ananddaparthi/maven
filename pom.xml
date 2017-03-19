@@ -35,7 +35,7 @@
 				<executions>
 					<execution>
 						<id>default-jar</id>
-                                                <phase>never</phase>
+                                                <phase>none</phase>
 						<phase>package</phase>
 						<goals>
 							<goal>shade</goal>
