@@ -5,6 +5,8 @@
 	<groupId>org.springframework</groupId>
 	<artifactId>gs-maven</artifactId>
 
+	
+	
 	<packaging>war</packaging>
 	
 	
